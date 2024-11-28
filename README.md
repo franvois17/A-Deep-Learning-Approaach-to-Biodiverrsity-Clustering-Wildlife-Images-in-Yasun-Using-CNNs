@@ -27,3 +27,7 @@ Description:
 This notebook is set up to demonstrate preprocessing steps on images before feature extraction. It includes cropping based on detection bounding boxes and applies image transformations as per the requirements of the ResNet model.
 It visually compares the original, cropped, and transformed images to demonstrate the preprocessing effects. Relation to Article:
 Provides a detailed look at the preprocessing steps that prepare the images for feature extraction, illustrating the initial stages of the image processing pipeline that precedes the feature extraction discussed in the article.
+
+5.Metadata and jsons merge.ipynb
+
+This notebook extracts metadata from the images and utilizes the MegaDetector to generate the JSON file that will be used in subsequent steps for feature extraction
