@@ -29,5 +29,5 @@ It visually compares the original, cropped, and transformed images to demonstrat
 Provides a detailed look at the preprocessing steps that prepare the images for feature extraction, illustrating the initial stages of the image processing pipeline that precedes the feature extraction discussed in the article.
 
 5.Metadata and jsons merge.ipynb
-
+Description:
 This notebook extracts metadata from the images and utilizes the MegaDetector to generate the JSON file that will be used in subsequent steps for feature extraction
